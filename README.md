@@ -18,4 +18,4 @@ With the gaming industry's growth, understanding data insights can drive smarter
 
 ## How to Run
 Clone the repository:
-git clone https://github.com/your-username/steam-games-analysis.git
+git clone [https://github.com/your-username/steam-games-analysis.git](https://github.com/JiayiWang78/Steam-Games.git)
